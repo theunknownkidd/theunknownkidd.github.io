@@ -1,0 +1,155 @@
+body{
+    background-color: #008EDF;
+}
+
+table{
+        color: #0061C5;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        
+        box-shadow: 0px 0px 20px 20px white;
+        border: white;
+        border-style: solid;
+        border-width: 1px;
+        padding: 3px;
+        background-color: white; 
+        border-radius: 20px;  
+        margin-left: 325px;
+        margin-top: 25px;
+}
+
+h1{
+    font-size: 150%;
+}
+table, tr, th{
+    border: 4px solid #0061C5;
+  }
+  
+  img.dropout{
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    margin-left: 90px;
+    margin-top: 50px;
+    box-shadow: 0px 0px 20px 20px #ffffff;
+    border: white;
+    border-style: solid;
+    border-width: 1px;
+    display: inline-block;
+
+  }
+  
+  img.late{
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    margin-left: 90px;
+    margin-top: 50px;
+    box-shadow: 0px 0px 20px 20px #ffffff;
+    border: white;
+    border-style: solid;
+    border-width: 1px;
+
+  }
+
+  img.graduation{
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    margin-left: 95px;
+    margin-top: 50px;
+    box-shadow: 0px 0px 20px 20px #ffffff;
+    border: white;
+    border-style: solid;
+    border-width: 1px;
+
+  }
+
+  img.heartbreak{
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    margin-left: 100px;
+    margin-top: 50px;
+    box-shadow: 0px 0px 20px 20px #ffffff;
+    border: white;
+    border-style: solid;
+    border-width: 1px;
+
+  }
+
+  img.mbdtf{
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    margin-left: 100px;
+    margin-top: 50px;
+    box-shadow: 0px 0px 20px 20px #ffffff;
+    border: white;
+    border-style: solid;
+    border-width: 1px;
+
+  }
+
+  img.yeezus{
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    margin-left: 90px;
+    margin-top: 50px;
+    box-shadow: 0px 0px 20px 20px #ffffff;
+    border: white;
+    border-style: solid;
+    border-width: 1px;
+
+  }
+
+  img.pablo{
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    margin-left: 90px;
+    margin-top: 50px;
+    box-shadow: 0px 0px 20px 20px #ffffff;
+    border: white;
+    border-style: solid;
+    border-width: 1px;
+
+  }
+
+  img.ye{
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    margin-left: 95px;
+    margin-top: 50px;
+    box-shadow: 0px 0px 20px 20px #ffffff;
+    border: white;
+    border-style: solid;
+    border-width: 1px;
+
+  }
+
+  img.jesus{
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    margin-left: 100px;
+    margin-top: 50px;
+    box-shadow: 0px 0px 20px 20px #ffffff;
+    border: white;
+    border-style: solid;
+    border-width: 1px;
+
+  }
+
+  img.red{
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    margin-left: 100px;
+    margin-top: 50px;
+    box-shadow: 0px 0px 20px 20px #ffffff;
+    border: white;
+    border-style: solid;
+    border-width: 1px;
+  }
