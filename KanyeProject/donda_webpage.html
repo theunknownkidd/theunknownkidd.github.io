@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--AJ-->
+
+<head>
+    <meta charset="utf-8">
+    <meta name="keywords" content="kanye west, yeezy, donda">
+    <title> DONDA </title>
+    <link rel="shortcut icon" type="image/png" href="world.png">
+    <link href="donda_stylesheet.css" rel="stylesheet">
+</head>
+
+<body>  
+    <header>
+        <h1>Enter Email For Updates On DONDA</h1>
+    </header>
+    <form action="submit-form.php" method="POST">
+        <fieldset>
+            <label for="fnBox">First Name</label>
+            <input type="text" id="fnBox" name="firstName" pattern="^Kanye West$">
+            <label for="emailBox">Email</label>
+            <input type="text" id="emailBox" name="email" />
+            <label for="yearList">Birth Year </label>
+            <input type="text" id="yearList" name="yearlist">
+            <select id="yearList" required min="1" max="4">
+            <option value=""> --Year-- </option>
+            <option value="2000"> 2000 </option>
+            <option value="2001"> 2001 </option>
+            <option value="2002"> 2002 </option>
+            <option value="2003"> 2003 </option>
+            <option value="2004"> 2004 </option>
+            <option value="2005"> 2005 </option>
+            </fieldset>
+
+            
+        
+        <input type="submit" value="Submit" />
+    </form>
+    <img src="donda_cover.jpg" class="donda">
+</body>
+
+
+</html>
